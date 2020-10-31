@@ -1,2 +1,11 @@
-# IASC-1P04
-GitHub repository for IASC 1P04 course, Fall 2020
+# IASC-1P04 | Grady Hu
+
+welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University.
+
+##Playtest
+
+playtest my game[here]
+
+##Game Proposal Document 
+
+Read my documentation for my game[here]
