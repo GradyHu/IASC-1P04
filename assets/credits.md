@@ -27,3 +27,7 @@ license. http://dig.ccmixter.org/files/gurdonark/55028 Ft: Robbero
 "Key to the open door" by Tawheed Manzoor is licensed under CC BY 2.0
 
 ---
+
+"Letter from Francestown, New Hampshire (USA) to North Chelmsford, Massachusetts, February 1856" by gbaku is licensed under CC BY-SA 2.0
+
+---
