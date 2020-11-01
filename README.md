@@ -6,6 +6,6 @@ welcome to the website for my Twine Game, created for the course IASC 1P04 at Br
 
 playtest my game[here]
 
-##prototype
+## Prototype
 
 play the prototype [here](prototype/TwineGameprototype_GradyHu.html)
