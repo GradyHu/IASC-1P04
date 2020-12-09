@@ -8,7 +8,7 @@ Response is a horror game, the player plays a mechanical maintenance engineer Al
 
 ## Play now
 
-Play Response [here](final_build/Response_FinalBuild.html)
+Play Response [here]
 
 ### Playtest
 
