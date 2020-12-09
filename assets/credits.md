@@ -45,3 +45,7 @@ Attribution Noncommercial (3.0)
 "Hall-oween" by PhotosByDavid is licensed under CC BY-ND 2.0
 
 ---
+
+"The halls have ghosts" by kevin dooley is licensed under CC BY 2.0
+
+---
