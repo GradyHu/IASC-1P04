@@ -53,3 +53,12 @@ Attribution Noncommercial (3.0)
 "Zombie Head 2" by welovethedark is licensed under CC BY 2.0
 
 ---
+
+"The Soldier" 
+by Rewob
+
+2020 - Licensed under
+Creative Commons
+Attribution (3.0)
+
+---
