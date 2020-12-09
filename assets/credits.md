@@ -49,3 +49,7 @@ Attribution Noncommercial (3.0)
 "The halls have ghosts" by kevin dooley is licensed under CC BY 2.0
 
 ---
+
+"Zombie Head 2" by welovethedark is licensed under CC BY 2.0
+
+---
