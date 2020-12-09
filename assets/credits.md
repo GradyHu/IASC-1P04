@@ -41,3 +41,7 @@ Creative Commons
 Attribution Noncommercial (3.0)
 
 ---
+
+"Hall-oween" by PhotosByDavid is licensed under CC BY-ND 2.0
+
+---
